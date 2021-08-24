@@ -1,5 +1,5 @@
 # ics_machine
-A simple Python script to generate ics calendars.
+A simple Python script to generate ics calendars for GT MSA 2021 Fall semester.
 
 ## How to use - easy way
 1. Download the schedules.py
