@@ -1,6 +1,9 @@
 # ics_machine
 A simple Python script to generate ics calendars for GT MSA 2021 Fall semester.
 
+## Courses currently covered
+['ISYE6501-MSA', 'ISYE6669-AM', 'ISYE/CSE6740-LAN', 'CP8853-BD', 'ISYE6404-A', 'ISYE6413-A', 'CSE6040-A']
+
 ## How to use - easy way
 1. Download the schedules.py
 2. Make it executable with chmod +x schedules.py
